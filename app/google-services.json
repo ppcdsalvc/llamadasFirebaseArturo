@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "610790206223",
+    "firebase_url": "https://llamadasfirebase.firebaseio.com",
+    "project_id": "llamadasfirebase",
+    "storage_bucket": "llamadasfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610790206223:android:c6fdba3a7a9598ec",
+        "android_client_info": {
+          "package_name": "ittepic.mx.edu.llamadasfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610790206223-v2er13blbcdd3spm8r27qnb2tnl4pmal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-2Dg0PUTdiPDFIRO6HwZgkaGTaalDmw8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
